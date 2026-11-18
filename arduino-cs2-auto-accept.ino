@@ -22,9 +22,9 @@ const int SCREEN_W = 1920;
 const int SCREEN_H = 1080;
 
 // ACCEPT button center, in game pixels.
-// Button bounds (approx.): X 870..1050, Y 385..425
+// Button bounds (approx.): X 872..1045, Y 408..491
 const int TARGET_X = 960;
-const int TARGET_Y = 405;
+const int TARGET_Y = 450;
 
 // Time between click attempts while Scroll Lock is ON.
 const unsigned long CLICK_INTERVAL_MS = 2000;

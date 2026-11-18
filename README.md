@@ -23,7 +23,7 @@ These constants are at the top of the sketch:
 | Constant               | Default        | Description                                       |
 | ---------------------- | -------------- | ------------------------------------------------- |
 | `SCREEN_W`, `SCREEN_H` | `1920`, `1080` | The resolution CS2 runs at                        |
-| `TARGET_X`, `TARGET_Y` | `960`, `405`   | The center of the ACCEPT button, in game pixels   |
+| `TARGET_X`, `TARGET_Y` | `960`, `450`   | The center of the ACCEPT button, in game pixels   |
 | `CLICK_INTERVAL_MS`    | `2000`         | The time between clicks                           |
 | `SETTLE_MS`            | `40`           | The pause between moving the pointer and clicking |
 | `PRESS_MS`             | `60`           | How long the left button stays pressed            |
